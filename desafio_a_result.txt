@@ -1,0 +1,14 @@
+==========================================
+          RESULTADO DO DESAFIO A
+==========================================
+Aluno: Álisson Rodrigues
+
+STRING 1: "STR-1hUAu78Bif"
+STRING 2: "NUM-35362"
+HASH COMUM (4 bytes): 94D5AF85
+VERIFICACAO: Strings DIFERENTES: SIM
+
+Tentativas Totais: 35362
+Tempo Total: 0.093 segundos
+Data/Hora: Sun Jan  4 11:22:51 2026
+==========================================

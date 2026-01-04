@@ -1,0 +1,12 @@
+==========================================
+          RESULTADO DO DESAFIO C
+==========================================
+Aluno: Álisson Rodrigues
+Hash Alvo (#3): E82C07F0
+Pre-imagem Encontrada: 3337893024008014782
+Hash Completo (5 bytes): E82C07F016
+Primeiros 34 bits: 1110100000101100000001111111000000
+Tentativas Totais: 2736199532
+Tempo Total: 2448.19 segundos
+Data/Hora: Sat Jan  3 18:55:36 2026
+==========================================

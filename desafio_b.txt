@@ -1,0 +1,14 @@
+===== RESULTADO DO DESAFIO B =====
+Aluno: Álisson Rodrigues
+String original (x1): "Aluno: Álisson Rodrigues"
+Hash alvo (4 bytes): 2ec3eeea
+
+Threads utilizadas: 8
+STATUS: SUCESSO
+String colidida (x2): "437443275"
+Hash da colisão: 2ec3eeea
+
+OBSERVACOES:
+- Este resultado foi gerado automaticamente pelo programa
+- A colisao ocorre apenas nos primeiros 4 bytes do hash
+- Em sistemas reais, hashes devem ter tamanho minimo de 256 bits
